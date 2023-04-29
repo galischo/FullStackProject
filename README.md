@@ -1,2 +1,2 @@
-# project-java-react
-project java&amp;react
+# FullStackProject
+java&amp;react
